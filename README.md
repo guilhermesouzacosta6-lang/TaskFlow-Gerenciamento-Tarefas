@@ -37,6 +37,6 @@ python src/app.py
 
 ```bash
 pytest
-```## Estrutura
+```## Aprendizados
 
-O projeto está dividido em módulos para facilitar a manutenção e os testes.
+Durante o desenvolvimento foram praticados Git, GitHub, Python e testes automatizados.
