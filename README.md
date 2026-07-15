@@ -37,9 +37,6 @@ python src/app.py
 
 ```bash
 pytest
-```## Tecnologias
+```## Estrutura
 
-- Python
-- Git
-- GitHub
-- Pytest
+O projeto está dividido em módulos para facilitar a manutenção e os testes.
