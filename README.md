@@ -39,4 +39,6 @@ python src/app.py
 pytest
 ```## Autor
 
-Guilherme Souza
+## Objetivo
+
+Desenvolver um sistema simples de gerenciamento de tarefas em Python.
