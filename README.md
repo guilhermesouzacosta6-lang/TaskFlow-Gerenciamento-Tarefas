@@ -37,4 +37,6 @@ python src/app.py
 
 ```bash
 pytest
-```
+```## Autor
+
+Guilherme Souza
