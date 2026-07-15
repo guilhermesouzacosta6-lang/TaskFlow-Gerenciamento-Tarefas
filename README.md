@@ -37,8 +37,9 @@ python src/app.py
 
 ```bash
 pytest
-```## Autor
+```## Tecnologias
 
-## Objetivo
-
-Desenvolver um sistema simples de gerenciamento de tarefas em Python.
+- Python
+- Git
+- GitHub
+- Pytest
