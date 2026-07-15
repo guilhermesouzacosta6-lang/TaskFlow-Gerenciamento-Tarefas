@@ -37,6 +37,6 @@ python src/app.py
 
 ```bash
 pytest
-```## Aprendizados
+```## Licença
 
-Durante o desenvolvimento foram praticados Git, GitHub, Python e testes automatizados.
+Projeto desenvolvido apenas para fins acadêmicos.
